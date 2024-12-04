@@ -1,6 +1,6 @@
 const APILINK = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=2b0cd248239b6f6b47bdeef117762eaf&page=1';
-const IMGPATH = 'httops://image.tmdb.org/t/p/w1280';
-const SEARCHAPI = 'https://api.themoviedbl.org/3/search/movie? &api_key=2b0cd248239b6f6b47bdeef117762eaf&query=';
+const IMGPATH = 'https://image.tmdb.org/t/p/w1280';
+const SEARCHAPI = 'https://api.themoviedbl.org/3/search/movie?&api_key=2b0cd248239b6f6b47bdeef117762eaf&query="';
 
 
 const main = document.getElementById('section');
